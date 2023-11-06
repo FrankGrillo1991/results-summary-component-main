@@ -129,3 +129,45 @@ body {
 .img-part {
     display: flex;
 }
+
+img {
+    margin-right: 5px;
+}
+
+button {
+    background-color: hsl(224, 30%, 27%);
+    color: hsl(0, 0%, 100%);
+    width: 100%;
+    border-radius: 20px;
+    padding: 10px;
+    border: none;
+}
+
+button:hover {
+    cursor: pointer;
+    background: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
+}
+
+@media  and (max-width: 375px) {
+    body {
+        width: 100%;
+        height: auto;
+    }
+
+    .card {
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        box-shadow: none;
+        border-radius: 10px;
+    }
+
+    .purple {
+        border-top-right-radius: 0px;
+        border-bottom-right-radius: 20px;
+        border-bottom-left-radius: 20px;
+    }
+}
