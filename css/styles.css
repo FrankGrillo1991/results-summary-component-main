@@ -115,3 +115,17 @@ body {
     background-color: hsl(166, 100%, 37%);
     color: hsl(166, 100%, 37%);
 }
+
+.visual {
+    background-color: hsl(234, 85%, 45%);
+    color: hsl(234, 85%, 45%);
+}
+
+.specific-score {
+    display: flex;
+    justify-content: space-around;
+}
+
+.img-part {
+    display: flex;
+}
