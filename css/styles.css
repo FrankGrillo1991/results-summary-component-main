@@ -39,3 +39,35 @@ body {
     align-items: center;
     justify-content: center;
 }
+
+.card {
+    height: 350px;
+    width: 40%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    box-shadow: 5px 5px 5px 2px #00000021;
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+.purple {
+    height: 100%;
+    width: 50%;
+    background: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.purple-content {
+    text-align: center;
+    max-width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
