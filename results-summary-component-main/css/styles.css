@@ -8,7 +8,7 @@ body {
 
 .purple-container {
     display: inline-block;
-    width: 80%x;
+    width: 80px;
     height: 600px;
     background-color: hsla(256, 72%, 46%, 1);
     border-radius: 10px;
@@ -17,7 +17,7 @@ body {
 
 .white-container {
     display: inline-block;
-    width: 80%%;
+    width: 80%;
     height: 600px;
     background-color: hsl(0, 0%, 100%);
     border-radius: 10px;
