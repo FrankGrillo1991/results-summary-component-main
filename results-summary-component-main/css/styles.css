@@ -34,8 +34,11 @@ body {
     text-align: center;
 }
 
-.reaction-box {
+.scores-container {
     position: relative;
+}
+
+.reaction-box {
     display: flex;
     width: 400px;
     height: 100px;
@@ -44,7 +47,6 @@ body {
 }
 
 .memory-box {
-    position: relative;
     display: flex;
     width: 400px;
     height: 100px;
@@ -52,6 +54,3 @@ body {
     border-radius: 10px;
 }
 
-.scores-container {
-    position: relative;
-}
