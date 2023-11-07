@@ -46,11 +46,13 @@ h1 {
 .title {
     display: inline;
     float: left;
+    margin-left: 100px;
 }
 
 #results {
     display: inline;
     float: right;
+    margin-right: 100px;
 }
 
 
