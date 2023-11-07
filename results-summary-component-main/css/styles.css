@@ -34,3 +34,10 @@ body {
     text-align: center;
 }
 
+.reaction-box {
+    width: 70%;
+    height: 100px;
+    background-color: hsl(0, 100%, 67%);
+    border-radius: 10px;
+}
+
