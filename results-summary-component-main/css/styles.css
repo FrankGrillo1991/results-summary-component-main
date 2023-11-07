@@ -1,6 +1,6 @@
 body {
     width: 100%;
-    display: block;
+    display: flex;
     margin: 8px;
     font-family: 'Hanken Grotesh', sans-serif;
 }
