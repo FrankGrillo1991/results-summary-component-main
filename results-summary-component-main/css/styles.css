@@ -41,6 +41,14 @@ h1 {
     display: inline-block;
     text-align: center;
     margin-left: 250px;
+    top: 50px;
+}
+
+.memory {
+    display: inline-block;
+    text-align: center;
+    margin-left: 250px;
+    top: 150px;
 }
 
 .score-details {
