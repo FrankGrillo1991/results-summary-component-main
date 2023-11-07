@@ -1,0 +1,22 @@
+body {
+    width: 100%;
+    display: block;
+    margin: 8px;
+    font-family: 'Hanken Grotesh', sans-serif;
+}
+
+.purple-container {
+    display: inline-block;
+    float: left;
+    width: 50%;
+    height: 100%;
+    background-color: hsla(256, 72%, 46%, 1);
+}
+
+.white-container {
+    display: inline-block;
+    float: right;
+    width: 50%;
+    height: 100%;
+    background-color: hsl(0, 0%, 100%);
+}
