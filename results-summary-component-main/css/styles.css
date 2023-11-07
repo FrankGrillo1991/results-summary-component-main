@@ -34,6 +34,20 @@ h1 {
     display: inline-block;
 }
 
+.score-box {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.reaction-box {
+    display: flex;
+    width: 80%;
+    height: 30px;
+    background-color: hsl(0, 100%, 67%);
+    border-radius: 10px;
+}
+
 .icon {
     float: left;
 }
