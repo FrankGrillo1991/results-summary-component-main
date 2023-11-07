@@ -29,16 +29,16 @@ body {
 }
 
 .the-result-title {
-    display: flex;
+    display: inline-block;
     text-align: center;
 }
 
 .the-result-text {
-    display: flex;
+    display: inline-block;
     text-align: center;
 }
 
 .summary {
-    display: flex;
+    display: inline-block;
     text-align: center;
 }
