@@ -38,28 +38,28 @@ h1 {
 }
 
 .reaction {
-    display: inline-block;
+    display: inline;
     text-align: center;
     margin-left: 250px;
     top: 50px;
 }
 
 .memory {
-    display: inline-block;
+    display: inline;
     text-align: center;
     margin-left: 250px;
     top: 150px;
 }
 
 .verbal {
-    display: inline-block;
+    display: inline;
     text-align: center;
     margin-left: 250px;
     top: 225px;
 }
 
 .visual {
-    display: inline-block;
+    display: inline;
     text-align: center;
     margin-left: 250px;
     top: 350px;
