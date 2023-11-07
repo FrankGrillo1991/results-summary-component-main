@@ -28,6 +28,16 @@ body {
     justify-content: center;
 }
 
+.the-result-title {
+    display: flex;
+    text-align: center;
+}
+
+.the-result-text {
+    display: flex;
+    text-align: center;
+}
+
 .summary {
     display: flex;
     text-align: center;
