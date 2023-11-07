@@ -35,4 +35,8 @@ body {
     margin-left: 250px;
 }
 
+.score-details {
+    display: inline-block;
+}
+
 
