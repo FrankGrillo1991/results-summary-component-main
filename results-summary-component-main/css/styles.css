@@ -6,6 +6,10 @@ body {
     background-color: hsl(221, 100%, 96%);
 }
 
+h1 {
+    font-size: 40px;
+}
+
 .purple-box {
     display: flex;
     width: 100%;
