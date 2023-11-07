@@ -7,7 +7,7 @@ body {
 }
 
 .purple-container {
-    position: absolute;
+    position: relative;
     display: inline-block;
     width: 80%;
     height: 600px;
