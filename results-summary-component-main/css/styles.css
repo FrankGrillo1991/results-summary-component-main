@@ -35,7 +35,10 @@ body {
     margin-left: 250px;
 }
 
-.score-details {
+.score-details,
+.memory,
+.verbal,
+.visual {
     display: inline-block;
 }
 
