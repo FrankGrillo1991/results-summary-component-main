@@ -12,6 +12,7 @@ body {
     height: 900px;
     background-color: hsla(256, 72%, 46%, 1);
     border-radius: 10px;
+    margin-left: 100px;
 }
 
 .white-container {
