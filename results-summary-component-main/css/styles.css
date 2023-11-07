@@ -51,3 +51,7 @@ body {
     background-color: hsl(39, 100%, 56%);
     border-radius: 10px;
 }
+
+.scores-container {
+    position: relative;
+}
