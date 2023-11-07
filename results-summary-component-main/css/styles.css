@@ -24,21 +24,6 @@ body {
 }
 
 .the-result {
-    display: flex;
-    justify-content: center;
-}
-
-.the-result-title {
-    display: inline-block;
     text-align: center;
 }
 
-.the-result-text {
-    display: inline-block;
-    text-align: center;
-}
-
-.summary {
-    display: inline-block;
-    text-align: center;
-}
