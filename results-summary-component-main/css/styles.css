@@ -6,7 +6,7 @@ body {
 }
 
 .purple-container {
-    display: inline-block;
+    display: block;
     float: left;
     width: 50%;
     height: 100%;
@@ -14,7 +14,7 @@ body {
 }
 
 .white-container {
-    display: inline-block;
+    display: block;
     float: right;
     width: 50%;
     height: 100%;
