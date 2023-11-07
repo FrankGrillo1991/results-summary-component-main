@@ -35,7 +35,8 @@ body {
 }
 
 .reaction-box {
-    width: 100%;
+    display: flex;
+    width: 80%;
     height: 100px;
     background-color: hsl(0, 100%, 67%);
     border-radius: 10px;
