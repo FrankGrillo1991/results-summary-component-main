@@ -37,7 +37,7 @@ h1 {
     text-align: center;
 }
 
-.summary {
+.reaction {
     display: inline-block;
     text-align: center;
     margin-left: 250px;
@@ -49,6 +49,13 @@ h1 {
     text-align: center;
     margin-left: 250px;
     top: 150px;
+}
+
+.verbal {
+    display: inline-block;
+    text-align: center;
+    margin-left: 250px;
+    top: 225px;
 }
 
 .score-details {
