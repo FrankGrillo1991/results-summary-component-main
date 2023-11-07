@@ -43,5 +43,15 @@ h1 {
     text-align: center;
 }
 
+.title {
+    display: inline;
+    float: left;
+}
+
+#results {
+    display: inline;
+    float: right;
+}
+
 
 
