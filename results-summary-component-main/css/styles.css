@@ -30,6 +30,7 @@ body {
 }
 
 .summary {
-    text-align: right;
+    display: inline-block;
+    text-align: center;
 }
 
