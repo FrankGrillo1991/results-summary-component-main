@@ -58,6 +58,13 @@ h1 {
     top: 225px;
 }
 
+.visual {
+    display: inline-block;
+    text-align: center;
+    margin-left: 250px;
+    top: 350px;
+}
+
 .score-details {
     display: inline-block;
     margin-right: 100px;
