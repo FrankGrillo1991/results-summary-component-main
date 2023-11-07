@@ -42,3 +42,10 @@ body {
     border-radius: 10px;
 }
 
+.memory-box {
+    display: flex;
+    width: 400px;
+    height: 100px;
+    background-color: hsl(39, 100%, 56%);
+    border-radius: 10px;
+}
