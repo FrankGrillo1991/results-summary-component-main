@@ -7,6 +7,7 @@ body {
 }
 
 .purple-container {
+    display: inline-block;
     width: 80%x;
     height: 600px;
     background-color: hsla(256, 72%, 46%, 1);
@@ -15,6 +16,7 @@ body {
 }
 
 .white-container {
+    display: inline-block;
     width: 80%%;
     height: 600px;
     background-color: hsl(0, 0%, 100%);
