@@ -27,7 +27,7 @@ h1 {
     background-color: hsl(0, 0%, 100%);
     border-radius: 10px;
     margin-right: 300px;
-    margin-left: 300px;
+    text-align: center;
 }
 
 .white-container {
