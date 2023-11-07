@@ -8,8 +8,8 @@ body {
 
 .circle {
     margin: auto;
-    width: 300px;
-    height: 300px;
+    width: 150px;
+    height: 150px;
     background-color: hsla(241, 72%, 46%, 0);
     border-radius: 50px;
     border: 1px solid black;
