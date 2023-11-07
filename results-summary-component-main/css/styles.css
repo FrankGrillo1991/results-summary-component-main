@@ -21,6 +21,7 @@ h1 {
 
 .white-box {
     display: flex;
+    flex-direction: column;
     width: 100%;
     height: 900px;
     background-color: hsl(0, 0%, 100%);
