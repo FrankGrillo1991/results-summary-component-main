@@ -13,6 +13,7 @@ body {
     border-radius: 50px;
     border: 1px solid black;
     justify-content: center;
+    align-items: center;
 }
 
 h1 {
