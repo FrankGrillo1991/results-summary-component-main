@@ -37,12 +37,5 @@ h1 {
     text-align: center;
 }
 
-.reaction,
-.memory, 
-.verbal,
-.visual {
-    display: inline-block;
-    vertical-align: top;
-}
 
 
