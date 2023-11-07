@@ -8,8 +8,8 @@ body {
 .purple-container {
     display: block;
     float: left;
-    width: 50%;
-    height: 100%;
+    width: 100%;
+    height: 50px;
     background-color: hsla(256, 72%, 46%, 1);
     border: 10px 0 0 10px;
 }
@@ -17,7 +17,7 @@ body {
 .white-container {
     display: block;
     float: right;
-    width: 50%;
-    height: 100%;
+    width: 100%;
+    height: 50px;
     background-color: hsl(0, 0%, 100%);
 }
