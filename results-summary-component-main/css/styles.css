@@ -25,6 +25,7 @@ body {
 }
 
 .the-result {
+    display: flex;
     text-align: center;
 }
 
