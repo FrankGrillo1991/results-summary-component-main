@@ -58,6 +58,7 @@ h1 {
     display: inline;
     float: left;
     margin-left: 150px;
+    line-height: 1.6;
 }
 
 #results {
