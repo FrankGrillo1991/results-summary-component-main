@@ -35,11 +35,7 @@ body {
     margin-left: 250px;
 }
 
-.score-details,
-.reaction,
-.memory,
-.verbal,
-.visual {
+.score-details {
     display: inline-block;
 }
 
