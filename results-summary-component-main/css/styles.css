@@ -135,8 +135,9 @@ button {
     display: inline-block;
     width: 80%;
     height: 60px;
-    background:  hsla(241, 72%, 46%, 0);
+    background: hsl(241, 81%, 54%);
     border-radius: 40px;
+    margin-left: 60px;
 }
 
 
