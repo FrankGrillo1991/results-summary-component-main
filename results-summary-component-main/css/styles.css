@@ -28,6 +28,10 @@ h1 {
     margin-bottom: 20px;
 }
 
+#great {
+    margin-left: 100px;
+}
+
 .purple-box {
     display: flex;
     width: 100%;
