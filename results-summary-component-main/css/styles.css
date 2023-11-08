@@ -22,25 +22,30 @@ body {
 
 h1 {
     font-size: 40px;
+    font-weight: 700;
     color: hsl(0, 0%, 100%)
 }
 
 #statistics {
+    font-weight: 400;
     margin-bottom: 20px;
     color: hsl(0, 0%, 100%);
 }
 
 .your-result {
+    font-weight: 700;
     margin-left: 140px;
     color:hsl(0, 0%, 100%);
 }
 
 #great {
+    font-weight: 700;
     margin-left: 150px;
     color:hsl(0, 0%, 100%);
 }
 
 #details {
+    font-weight: 400;
     margin-left: 150px;
     color: hsl(0, 0%, 100%);
 }
@@ -142,6 +147,7 @@ button {
     height: 60px;
     background: hsl(241, 81%, 54%);
     color: hsl(0, 0%, 100%);
+    font-weight: 400;
     border-radius: 40px;
     margin-left: 60px;
 }
