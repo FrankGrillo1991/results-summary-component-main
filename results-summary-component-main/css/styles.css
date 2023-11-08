@@ -131,5 +131,14 @@ h1 {
     line-height: 1.6;
 }
 
+button {
+    display: inline-block;
+    width: 80%;
+    height: 60px;
+    background-color:  hsla(241, 72%, 46%, 0);
+    color:hsl(0, 0%, 100%);
+    border-radius: 40px;
+}
+
 
 
