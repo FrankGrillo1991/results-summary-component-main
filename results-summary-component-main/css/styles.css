@@ -22,22 +22,27 @@ body {
 
 h1 {
     font-size: 40px;
+    color: hsl(0, 0%, 100%)
 }
 
 #statistics {
     margin-bottom: 20px;
+    color: hsl(0, 0%, 100%);
 }
 
 .your-result {
     margin-left: 140px;
+    color:hsl(0, 0%, 100%);
 }
 
 #great {
     margin-left: 150px;
+    color:hsl(0, 0%, 100%);
 }
 
 #details {
     margin-left: 150px;
+    color: hsl(0, 0%, 100%);
 }
 
 .purple-box {
