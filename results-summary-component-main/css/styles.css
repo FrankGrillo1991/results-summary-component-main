@@ -136,7 +136,7 @@ h1 {
 }
 
 .title {
-    display: inline;
+    display: block;
     float: left;
     margin-left: 150px;
     line-height: 1.6;
