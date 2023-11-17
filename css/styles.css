@@ -90,6 +90,7 @@ h1 {
     margin-left: 60px;
     margin-right: 60px;
     margin-bottom: 20px;
+    line-height: 1.6;
 }
 
 .memory {
@@ -101,6 +102,7 @@ h1 {
     margin-left: 60px;
     margin-right: 60px;
     margin-bottom: 20px;
+    line-height: 1.6;
 }
 
 .verbal {
@@ -112,6 +114,7 @@ h1 {
     margin-left: 60px;
     margin-right: 60px;
     margin-bottom: 20px;
+    line-height: 1.6;
 }
 
 .visual {
@@ -123,6 +126,7 @@ h1 {
     margin-left: 60px;
     margin-right: 60px;
     margin-bottom: 20px;
+    line-height: 1.6;
 }
 
 
@@ -136,18 +140,20 @@ h1 {
 }
 
 .title {
-    display: inline;
+    display: inline-block;
     float: left;
     margin-left: 150px;
+    margin-right: 150px;
     line-height: 1.6;
     margin-top: 15px;
     font-weight: 700;
 }
 
 #results {
-    display: inline;
+    display: inline-block;
     float: right;
     margin-right: 200px;
+    margin-top: 5px;
     line-height: 1.6;
 }
 
