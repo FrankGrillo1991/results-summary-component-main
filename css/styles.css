@@ -16,7 +16,6 @@ body {
     height: 150px;
     background: hsla(241, 72%, 46%, 0);
     border: 1px solid hsl(0, 0%, 100%);
-    margin-left: 180px;
     overflow: hidden;
 }
 
@@ -27,48 +26,43 @@ h1 {
 }
 
 #statistics {
+    display: flex;
     font-weight: 400;
     margin-bottom: 20px;
     color: hsl(0, 0%, 100%);
 }
 
 .your-result {
+    display: flex;
     font-weight: 700;
-    margin-left: 140px;
     color:hsl(0, 0%, 100%);
 }
 
 #great {
+    display: flex;
     font-weight: 700;
-    margin-left: 150px;
     color:hsl(0, 0%, 100%);
 }
 
 #details {
     font-weight: 400;
-    margin-left: 150px;
     color: hsl(0, 0%, 100%);
 }
 
 .purple-box {
     display: flex;
-    width: 100%;
-    height: 900px;
+    flex: 50%;
     background-color: hsl(256, 72%, 46%, 1);
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
-    margin-left: 300px;
 }
 
 .white-box {
     display: flex;
-    flex-direction: column;
-    width: 100%;
-    height: 900px;
+    flex: 50%;
     background-color: hsl(0, 0%, 100%);
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
-    margin-right: 300px;
     text-align: center;
 }
 
@@ -76,56 +70,36 @@ h1 {
     font-weight: 700;
 }
 
-.white-container {
-    display: inline-block;
-}
-
 
 .reaction {
-    display: inline-block;
-    width: 80%;
-    height: 60px;
+    display: flex;
+    flex: 100%;
     background-color: hsl(0, 100%, 67%);
     border-radius: 10px;
-    margin-left: 60px;
-    margin-right: 60px;
-    margin-bottom: 20px;
     line-height: 1.6;
 }
 
 .memory {
-    display: inline-block;
-    width: 80%;
-    height: 60px;
+    display: flex;
+    flex: 100%;
     background-color: hsl(39, 100%, 56%);
     border-radius: 10px;
-    margin-left: 60px;
-    margin-right: 60px;
-    margin-bottom: 20px;
     line-height: 1.6;
 }
 
 .verbal {
-    display: inline-block;
-    width: 80%;
-    height: 60px;
+    display: flex;
+    flex: 100%;
     background-color:  hsl(166, 100%, 37%);
     border-radius: 10px;
-    margin-left: 60px;
-    margin-right: 60px;
-    margin-bottom: 20px;
     line-height: 1.6;
 }
 
 .visual {
-    display: inline-block;
-    width: 80%;
-    height: 60px;
+    display: flex;
+    flex: 100%;
     background-color: hsl(241, 100%, 89%);
     border-radius: 10px;
-    margin-left: 60px;
-    margin-right: 60px;
-    margin-bottom: 20px;
     line-height: 1.6;
 }
 
@@ -135,37 +109,30 @@ h1 {
 }
 
 .the-result {
-    padding-left: 50px;
+    display: flex;
     text-align: center;
 }
 
 .title {
-    display: inline-block;
-    float: left;
-    margin-left: 150px;
-    margin-right: 150px;
+    display: inline;
+    text-align: left;
     line-height: 1.6;
-    margin-top: 15px;
     font-weight: 700;
 }
 
 #results {
     display: inline-block;
-    float: right;
-    margin-right: 200px;
+    text-align: right;
     margin-top: 5px;
     line-height: 1.6;
 }
 
 button {
-    display: inline-block;
-    width: 80%;
-    height: 60px;
+    display: flex;
     background: hsl(241, 81%, 54%);
     color: hsl(0, 0%, 100%);
-    font-weight: 400;
+    font-weight: 700;
     border-radius: 40px;
-    margin-left: 60px;
 }
 
 button:hover {
