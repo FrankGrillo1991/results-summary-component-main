@@ -81,7 +81,7 @@ h1 {
 }
 
 
-.reaction p {
+.reaction > p {
     display: inline-block;
     width: 80%;
     height: 60px;
@@ -92,7 +92,7 @@ h1 {
     margin-bottom: 20px;
 }
 
-.memory p {
+.memory > p {
     display: inline-block;
     width: 80%;
     height: 60px;
@@ -103,7 +103,7 @@ h1 {
     margin-bottom: 20px;
 }
 
-.verbal p {
+.verbal > p {
     display: inline-block;
     width: 80%;
     height: 60px;
@@ -114,7 +114,7 @@ h1 {
     margin-bottom: 20px;
 }
 
-.visual p {
+.visual > p {
     display: inline-block;
     width: 80%;
     height: 60px;
