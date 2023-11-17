@@ -136,7 +136,7 @@ h1 {
 }
 
 .title {
-    display: inline-block;
+    display: inline;
     float: left;
     margin-left: 150px;
     line-height: 1.6;
@@ -145,7 +145,7 @@ h1 {
 }
 
 #results {
-    display: inline-block;
+    display: inline;
     float: right;
     margin-right: 200px;
     line-height: 1.6;
