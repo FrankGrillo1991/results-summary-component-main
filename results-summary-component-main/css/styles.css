@@ -38,13 +38,11 @@ h1 {
 }
 
 #great {
-    display: flex;
     font-weight: 700;
     color:hsl(0, 0%, 100%);
 }
 
 #details {
-    display: flex;
     font-weight: 400;
     color: hsl(0, 0%, 100%);
 }
