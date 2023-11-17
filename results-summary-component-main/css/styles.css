@@ -121,13 +121,14 @@ h1 {
 
 .title {
     display: inline;
+    text-align: left;
     line-height: 1.6;
     font-weight: 700;
 }
 
 #results {
     display: inline;
-    align: right;
+    text-align: right;
     line-height: 1.6;
     font-weight: 700;
 }
