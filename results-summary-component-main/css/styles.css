@@ -136,16 +136,14 @@ h1 {
 }
 
 .title {
-    display: block;
-    float: left;
+    display: inline-block;
     margin-left: 150px;
     line-height: 1.6;
     font-weight: 700;
 }
 
 #results {
-    display: block;
-    float: right;
+    display: inline-block;
     margin-bottom: auto;
     margin-right: 200px;
     line-height: 1.6;
