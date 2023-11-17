@@ -15,8 +15,7 @@ body {
     width: 150px;
     height: 150px;
     background: hsla(241, 72%, 46%, 0);
-    border: 1px solid hsl(0, 0%, 100%);
-    margin-left: 180px;
+    border: 1px solid hsl(0, 0%, 100%;
     overflow: hidden;
 }
 
@@ -27,26 +26,26 @@ h1 {
 }
 
 #statistics {
+    display: flex;
     font-weight: 400;
-    margin-bottom: 20px;
     color: hsl(0, 0%, 100%);
 }
 
 .your-result {
+    display: flex;
     font-weight: 700;
-    margin-left: 140px;
     color:hsl(0, 0%, 100%);
 }
 
 #great {
+    display: flex;
     font-weight: 700;
-    margin-left: 150px;
     color:hsl(0, 0%, 100%);
 }
 
 #details {
+    display: flex;
     font-weight: 400;
-    margin-left: 150px;
     color: hsl(0, 0%, 100%);
 }
 
