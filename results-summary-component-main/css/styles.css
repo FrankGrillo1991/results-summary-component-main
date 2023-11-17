@@ -154,5 +154,9 @@ button {
     margin-left: 60px;
 }
 
+button:hover {
+    background: hsla(256, 72%, 46%, 1);
+}
+
 
 
