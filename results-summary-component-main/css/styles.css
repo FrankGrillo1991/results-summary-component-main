@@ -74,6 +74,7 @@ h1 {
 }
 
 .summary {
+    text-align: left;
     font-weight: 700;
 }
 
