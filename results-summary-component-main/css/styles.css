@@ -72,6 +72,10 @@ h1 {
     text-align: center;
 }
 
+.summary {
+    font-weight: 700;
+}
+
 .white-container {
     display: inline-block;
 }
