@@ -115,22 +115,22 @@ h1 {
 }
 
 .the-result {
-    padding-left: 50px;
+    display: flex;
     text-align: center;
 }
 
 .title {
+    display: flex;
     text-align: left;
-    margin-left: 150px;
     line-height: 1.6;
     font-weight: 700;
 }
 
 #results {
+    display: flex;
     text-align: right;
-    margin-bottom: 20px;
-    margin-right: 200px;
     line-height: 1.6;
+    font-weight: 700;
 }
 
 button {
