@@ -126,7 +126,7 @@ h1 {
 }
 
 #results {
-    display: inline;
+    display: inline-block;
     text-align: right;
     line-height: 1.6;
     font-weight: 700;
