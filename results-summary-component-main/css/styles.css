@@ -135,14 +135,11 @@ h1 {
 }
 
 button {
-    display: inline-block;
-    width: 80%;
-    height: 60px;
+    display: flex;
     background: hsl(241, 81%, 54%);
     color: hsl(0, 0%, 100%);
-    font-weight: 400;
+    font-weight: 700;
     border-radius: 40px;
-    margin-left: 60px;
 }
 
 button:hover {
