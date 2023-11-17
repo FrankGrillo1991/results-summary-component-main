@@ -152,5 +152,9 @@ button {
     margin-left: 60px;
 }
 
+button:hover {
+    background-color: hsla(241, 72%, 46%, 0);
+}
+
 
 
