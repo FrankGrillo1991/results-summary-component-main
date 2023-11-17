@@ -72,6 +72,10 @@ h1 {
     text-align: center;
 }
 
+.summary {
+    font-weight: 700;
+}
+
 .white-container {
     display: inline-block;
 }
@@ -95,6 +99,7 @@ h1 {
     background-color: hsl(39, 100%, 56%);
     border-radius: 10px;
     margin-left: 60px;
+    margin-right: 60px;
     margin-bottom: 20px;
 }
 
@@ -105,6 +110,7 @@ h1 {
     background-color:  hsl(166, 100%, 37%);
     border-radius: 10px;
     margin-left: 60px;
+    margin-right: 60px;
     margin-bottom: 20px;
 }
 
@@ -115,6 +121,7 @@ h1 {
     background-color: hsl(241, 100%, 89%);
     border-radius: 10px;
     margin-left: 60px;
+    margin-right: 60px;
     margin-bottom: 20px;
 }
 
