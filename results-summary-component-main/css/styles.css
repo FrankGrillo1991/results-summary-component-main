@@ -146,6 +146,7 @@ h1 {
 #results {
     display: block;
     float: right;
+    margin-bottom: auto;
     margin-right: 200px;
     line-height: 1.6;
 }
