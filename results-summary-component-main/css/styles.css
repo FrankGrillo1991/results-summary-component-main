@@ -48,11 +48,6 @@ h1 {
     color: hsl(0, 0%, 100%);
 }
 
-.flex-container {
-    display: flex;
-    flex-wrap: wrap;
-    text-align: center;
-}
 
 .purple-box {
     display: flex;
@@ -60,7 +55,6 @@ h1 {
     background-color: hsl(256, 72%, 46%, 1);
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
-    padding: 10px;
 }
 
 .white-box {
@@ -69,7 +63,7 @@ h1 {
     background-color: hsl(0, 0%, 100%);
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
-    padding: 10px;
+    text-align: center;
 }
 
 .summary {
@@ -119,15 +113,14 @@ h1 {
 }
 
 .title {
-    display: flex;
-    flex: 100%;
+    display: inline;
     text-align: left;
     line-height: 1.6;
     font-weight: 700;
 }
 
 #results {
-    display: flex;
+    display: inline-block;
     flex: 100%;
     text-align: right;
     line-height: 1.6;
