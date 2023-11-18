@@ -1,6 +1,6 @@
 body {
     width: 100%;
-    display: grid;
+    display: flex;
     margin: 8px;
     font-family: 'Hanken Grotesh', sans-serif;
     background-color: hsl(221, 100%, 96%);
@@ -46,19 +46,23 @@ h1 {
     color: hsl(0, 0%, 100%);
 }
 
-.grid-container {
-    display: grid;
-    grid-template-columns: auto auto;
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
     text-align: center;
 }
 
 .purple-box {
+    display: flex;
+    flex: 50%;
     background-color: hsl(256, 72%, 46%, 1);
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
 }
 
 .white-box {
+    display: flex;
+    flex: 50%;
     background-color: hsl(0, 0%, 100%);
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
@@ -71,24 +75,24 @@ h1 {
 
 
 
-.reaction > p {
+.reaction {
     background-color: hsl(0, 100%, 67%);
     border-radius: 10px;
 
 }
 
-.memory > p {
+.memory {
     background-color: hsl(39, 100%, 56%);
     border-radius: 10px;
 }
 
-.verbal > p {
+.verbal {
     background-color:  hsl(166, 100%, 37%);
     border-radius: 10px;
 
 }
 
-.visual > p {
+.visual {
     background-color: hsl(241, 100%, 89%);
     border-radius: 10px;
 }
