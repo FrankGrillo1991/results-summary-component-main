@@ -107,14 +107,14 @@ h1 {
 }
 
 .title {
-    display: inline;
+    display: flex;
     text-align: left;
     line-height: 1.6;
     font-weight: 700;
 }
 
 #results {
-    display: inline-block;
+    display: flex;
     text-align: right;
     line-height: 1.6;
     font-weight: 700;
