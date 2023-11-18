@@ -1,6 +1,6 @@
 body {
     width: 100%;
-    display: flex;
+    display: grid;
     margin: 8px;
     font-family: 'Hanken Grotesh', sans-serif;
     background-color: hsl(221, 100%, 96%);
@@ -22,7 +22,7 @@ body {
 h1 {
     font-size: 40px;
     font-weight: 700;
-    color: hsl(0, 0%, 100%)
+    color: hsl(0, 0%, 100%);
 }
 
 #statistics {
@@ -46,21 +46,19 @@ h1 {
     color: hsl(0, 0%, 100%);
 }
 
-.flex-container {
-    display: flex;
-    flex-wrap: wrap;
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
     text-align: center;
 }
 
 .purple-box {
-    flex: 50%;
     background-color: hsl(256, 72%, 46%, 1);
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
 }
 
 .white-box {
-    flex: 50%;
     background-color: hsl(0, 0%, 100%);
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
@@ -119,7 +117,6 @@ h1 {
 }
 
 button {
-    flex: 100%;
     background: hsl(241, 81%, 54%);
     color: hsl(0, 0%, 100%);
     font-weight: 700;
