@@ -28,12 +28,12 @@ h1 {
 #statistics {
     display: flex;
     font-weight: 400;
+    margin-bottom: 20px;
     color: hsl(0, 0%, 100%);
 }
 
 .your-result {
     display: flex;
-    margin-bottom: 20px;
     font-weight: 700;
     color:hsl(0, 0%, 100%);
 }
@@ -122,7 +122,6 @@ h1 {
 
 #results {
     display: inline-block;
-    margin-top: 5px;
     text-align: right;
     line-height: 1.6;
     font-weight: 700;
