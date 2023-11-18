@@ -48,7 +48,6 @@ h1 {
 
 
 .purple-box {
-    display: flex;
     flex: 50%;
     background-color: hsl(256, 72%, 46%, 1);
     border-top-left-radius: 10px;
@@ -56,7 +55,6 @@ h1 {
 }
 
 .white-box {
-    display: flex;
     flex: 50%;
     background-color: hsl(0, 0%, 100%);
     border-top-right-radius: 10px;
