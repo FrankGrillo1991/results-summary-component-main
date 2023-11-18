@@ -1,6 +1,6 @@
 body {
     width: 100%;
-    display: flex;
+    display: grid;
     margin: 8px;
     font-family: 'Hanken Grotesh', sans-serif;
     background-color: hsl(221, 100%, 96%);
@@ -26,20 +26,17 @@ h1 {
 }
 
 #statistics {
-    display: flex;
     font-weight: 400;
     margin-bottom: 20px;
     color: hsl(0, 0%, 100%);
 }
 
 .your-result {
-    display: flex;
     font-weight: 700;
     color:hsl(0, 0%, 100%);
 }
 
 #great {
-    display: flex;
     font-weight: 700;
     color:hsl(0, 0%, 100%);
 }
@@ -49,17 +46,21 @@ h1 {
     color: hsl(0, 0%, 100%);
 }
 
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    text-align: center;
+}
+
 .purple-box {
-    display: flex;
-    flex: 50%;
+    display: grid;
     background-color: hsl(256, 72%, 46%, 1);
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
 }
 
 .white-box {
-    display: flex;
-    flex: 50%;
+    display: grid;
     background-color: hsl(0, 0%, 100%);
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
@@ -72,32 +73,24 @@ h1 {
 
 
 .reaction {
-    display: flex;
-    flex: 100%;
     background-color: hsl(0, 100%, 67%);
     border-radius: 10px;
     line-height: 1.6;
 }
 
 .memory {
-    display: flex;
-    flex: 100%;
     background-color: hsl(39, 100%, 56%);
     border-radius: 10px;
     line-height: 1.6;
 }
 
 .verbal {
-    display: flex;
-    flex: 100%;
     background-color:  hsl(166, 100%, 37%);
     border-radius: 10px;
     line-height: 1.6;
 }
 
 .visual {
-    display: flex;
-    flex: 100%;
     background-color: hsl(241, 100%, 89%);
     border-radius: 10px;
     line-height: 1.6;
@@ -109,7 +102,7 @@ h1 {
 }
 
 .the-result {
-    display: flex;
+    display: grid;
     text-align: center;
 }
 
@@ -128,7 +121,6 @@ h1 {
 }
 
 button {
-    display: flex;
     background: hsl(241, 81%, 54%);
     color: hsl(0, 0%, 100%);
     font-weight: 700;
