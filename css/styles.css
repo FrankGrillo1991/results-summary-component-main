@@ -1,10 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Hanken Grotesh', sans-serif;
+}
+
+
 body {
     width: 100%;
-    display: grid;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
     margin: 8px;
-    font-family: 'Hanken Grotesh', sans-serif;
     background-color: hsl(221, 100%, 96%);
 }
+
 
 .circleBase {
     border-radius: 50%;
@@ -46,21 +58,35 @@ h1 {
     color: hsl(0, 0%, 100%);
 }
 
-.grid-container {
-    display: grid;
-    grid-template-columns: auto auto;
-    text-align: center;
+.card {
+    height: 350px;
+    width: 40px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border-radius: 15px;
+    overflow: hidden;
 }
 
 .purple-box {
-    display: grid;
+    height: 100%;
+    width: 50%;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
     background-color: hsl(256, 72%, 46%, 1);
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
 }
 
 .white-box {
-    display: grid;
+    height: 100%;
+    width: 50%;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
     background-color: hsl(0, 0%, 100%);
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
@@ -102,22 +128,21 @@ h1 {
 }
 
 .the-result {
-    display: grid;
     text-align: center;
 }
 
 .title {
-    display: inline;
+    display: flex;
     text-align: left;
     line-height: 1.6;
     font-weight: 700;
 }
 
 #results {
-    display: inline-block;
+    display: flex;
     text-align: right;
-    margin-top: 5px;
     line-height: 1.6;
+    font-weight: 700;
 }
 
 button {
