@@ -2,3 +2,24 @@
     padding: 0;
     margin: 0;
 }
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+}
+
+.purple-box {
+    border-top-left-radius: 22px;
+    border-bottom-left-radius: 22px;
+    background-color: hsla(256, 72%, 46%, 1);
+}
+
+.white-box {
+    border-top-right-radius: 22px;
+    border-bottom-right-radius: 22px;
+    background-color: hsl(0, 0%, 100%);
+}
