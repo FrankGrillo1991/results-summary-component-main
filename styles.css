@@ -31,3 +31,19 @@ body {
     border-bottom-right-radius: 22px;
     background-color: hsl(0, 0%, 100%);
 }
+
+h1 {
+    text-align: center;
+}
+
+#statistics {
+    text-align: center;
+}
+
+#great {
+    text-align: center;
+}
+
+#details {
+    text-align: center;
+}
