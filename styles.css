@@ -13,12 +13,16 @@ body {
 }
 
 .purple-box {
+    display: flex;
+    flex-direction: row;
     border-top-left-radius: 22px;
     border-bottom-left-radius: 22px;
     background-color: hsla(256, 72%, 46%, 1);
 }
 
 .white-box {
+    display: flex;
+    flex-direction: row;
     border-top-right-radius: 22px;
     border-bottom-right-radius: 22px;
     background-color: hsl(0, 0%, 100%);
