@@ -34,7 +34,6 @@ body {
 }
 
 h1 {
-    display: flex;
     font-size: 3rem;
     text-align: center;
 }
