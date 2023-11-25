@@ -14,8 +14,6 @@ body {
 }
 
 .purple-box {
-    display: flex;
-    flex-direction: row;
     width: 50%;
     height: 100vh;
     border-top-left-radius: 22px;
@@ -24,8 +22,6 @@ body {
 }
 
 .white-box {
-    display: flex;
-    flex-direction: row;
     width: 50%;
     height: 100vh;
     border-top-right-radius: 22px;
@@ -36,6 +32,10 @@ body {
 h1 {
     font-size: 3rem;
     text-align: center;
+}
+
+#the-result {
+    display: flex;
 }
 
 #statistics {
