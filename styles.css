@@ -55,6 +55,8 @@ h1 {
 }
 
 .score-details {
+    display: flex;
+    justify-content: center;
     align-items: center;
 
 }
