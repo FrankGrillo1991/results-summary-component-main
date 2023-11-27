@@ -36,11 +36,9 @@ h1 {
 
 #the-result {
     display: flex;
-}
-
-.your-result {
     font-size: 1.5rem;
 }
+
 
 #statistics {
     text-align: center;
