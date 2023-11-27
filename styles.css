@@ -54,6 +54,11 @@ h1 {
     font-size: 1.5rem;
 }
 
+.score-details {
+    align-items: center;
+
+}
+
 .reaction {
     background-color: hsl(0, 100%, 67%);
     border-radius: 10px;
