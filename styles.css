@@ -74,6 +74,7 @@ h1 {
     color: hsl(0, 100%, 67%);
     border-radius: 10px;
     width: 80%;
+    margin-bottom: 30px;
 }
 
 .memory {
@@ -81,6 +82,7 @@ h1 {
     color: hsl(39, 100%, 56%);
     border-radius: 10px;
     width: 80%;
+    margin-bottom: 30px;
 }
 
 .verbal {
@@ -88,6 +90,7 @@ h1 {
     color: hsl(166, 100%, 37%);
     border-radius: 10px;
     width: 80%;
+    margin-bottom: 30px;
 }
 
 .visual {
@@ -95,6 +98,7 @@ h1 {
     color: hsl(234, 85%, 45%);
     border-radius: 10px;
     width: 80%;
+    margin-bottom: 30px;
 }
 
 button {
