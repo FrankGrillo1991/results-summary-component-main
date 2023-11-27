@@ -84,7 +84,8 @@ h1 {
 }
 
 .verbal {
-    background-color: hsl(166, 100%, 37%);
+    background-color: #80ffd9;
+    color: hsl(166, 100%, 37%);
     border-radius: 10px;
     width: 80%;
 }
