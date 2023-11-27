@@ -37,6 +37,9 @@ h1 {
 
 #the-result {
     display: flex;
+}
+
+.your-result {
     color: white;
 }
 
