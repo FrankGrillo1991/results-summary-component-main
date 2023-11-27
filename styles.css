@@ -91,7 +91,8 @@ h1 {
 }
 
 .visual {
-    background-color: hsl(234, 85%, 45%);
+    background-color: #80e9ff;
+    color: hsl(234, 85%, 45%);
     border-radius: 10px;
     width: 80%;
 }
