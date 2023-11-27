@@ -97,3 +97,10 @@ h1 {
     width: 80%;
 }
 
+button {
+    width: 80%;
+    border-radius: 40px;
+    background-color: hsla(241, 72%, 46%, 0);
+    color: white;
+}
+
