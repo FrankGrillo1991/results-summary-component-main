@@ -100,6 +100,6 @@ h1 {
 button {
     width: 80%;
     border-radius: 40px;
-    background: hsla(241, 72%, 46%, 0);
+    background: hsl(241, 72%, 46%, 0);
 }
 
