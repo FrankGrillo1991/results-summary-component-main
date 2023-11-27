@@ -77,7 +77,8 @@ h1 {
 }
 
 .memory {
-    background-color: hsl(39, 100%, 56%);
+    background-color: #feeecc;
+    color: hsl(39, 100%, 56%);
     border-radius: 10px;
     width: 80%;
 }
