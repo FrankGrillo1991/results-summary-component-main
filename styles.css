@@ -104,7 +104,6 @@ h1 {
 button {
     width: 80%;
     height: 60px;
-    border: none;
     border-radius: 40px;
     background: hsla(241, 72%, 46%, 0);
     color: white;
