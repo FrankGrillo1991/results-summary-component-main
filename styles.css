@@ -70,7 +70,8 @@ h1 {
 }
 
 .reaction {
-    background-color: hsl(0, 100%, 67%);
+    background-color: #fecccc;
+    color: hsl(0, 100%, 67%);
     border-radius: 10px;
     width: 80%;
 }
