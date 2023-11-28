@@ -123,6 +123,7 @@ h1 {
     background-color: hsla(241, 72%, 46%, 0);
     width: 80%;
     height: 60px;
-    border-radius: 40px;
+    border-radius: 16px;
+    cursor: pointer;
 }
 
