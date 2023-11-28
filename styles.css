@@ -49,6 +49,10 @@ h1 {
     color: white;
 }
 
+.heading {
+    text-align: center;
+}
+
 .summary {
     text-align: left;
     font-size: 1.5rem;
