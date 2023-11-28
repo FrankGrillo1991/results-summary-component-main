@@ -142,3 +142,7 @@ h1 {
     cursor: pointer;
 }
 
+.button:hover {
+    background-color:  hsla(256, 72%, 46%, 1);
+}
+
