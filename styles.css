@@ -69,6 +69,11 @@ h1 {
     align-items: center;
 }
 
+.score {
+    display: flex;
+    justify-content: space-between;
+}
+
 .reaction {
     background-color: #fecccc;
     color: hsl(0, 100%, 67%);
