@@ -30,7 +30,7 @@ body {
     height: 150px;
     background:  hsla(256, 72%, 46%, 1);
     border: 1px solid white;
-    flex: 1;
+    display: flex;
     justify-content: center;
     align-items: center;
 }
