@@ -38,6 +38,7 @@ h1 {
 .summary {
     text-align: left;
     font-size: 1.5rem;
+    margin-left: 20px;
 }
 
 #the-result {
