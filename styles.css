@@ -26,8 +26,8 @@ body {
 }
 
 .circle {
-    display: table-cell;
-    vertical-align: center;
+    display: table;
+    place-items: center;
     width: 150px;
     height: 150px;
     background:  hsla(256, 72%, 46%, 1);
