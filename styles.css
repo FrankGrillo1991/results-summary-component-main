@@ -145,7 +145,7 @@ h1 {
     background-color:  hsla(256, 72%, 46%, 1);
 }
 
-@media screen and (min-width: 375px) {
+@media screen and (max-width: 375px) {
 
     body {
         display: flex;
