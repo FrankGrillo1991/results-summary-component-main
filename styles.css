@@ -159,7 +159,6 @@ h1 {
     
     .purple-box {
         width: 100vw;
-        height: 50vh;
         border-bottom-left-radius: 22px;
         border-bottom-right-radius: 22px;
         background-color: hsla(256, 72%, 46%, 1);
@@ -167,7 +166,6 @@ h1 {
     
     .white-box {
         width: 100vw;
-        height: 50vh;
         background-color: hsl(0, 0%, 100%);
     }
 }
