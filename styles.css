@@ -145,3 +145,29 @@ h1 {
     background-color:  hsla(256, 72%, 46%, 1);
 }
 
+@media screen and (min-width: 375px) {
+
+    body {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        min-height: 100vh;
+        background-color: hsl(221, 100%, 96%);
+    } 
+    
+    .purple-box {
+        width: 50%;
+        height: 100vh;
+        border-bottom-left-radius: 22px;
+        border-bottom-right-radius: 22px;
+        background-color: hsla(256, 72%, 46%, 1);
+    }
+    
+    .white-box {
+        width: 50%;
+        height: 100vh;
+        background-color: hsl(0, 0%, 100%);
+    }
+}
