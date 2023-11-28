@@ -23,6 +23,8 @@ body {
 
 .circleBase {
     border-radius: 50%;
+    display: table-cell;
+    vertical-align: center;
 }
 
 .circle {
