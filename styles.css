@@ -79,6 +79,7 @@ h1 {
     color: hsl(0, 100%, 67%);
     border-radius: 10px;
     width: 80%;
+    height: 60px;
     margin-bottom: 30px;
 }
 
@@ -87,6 +88,7 @@ h1 {
     color: hsl(39, 100%, 56%);
     border-radius: 10px;
     width: 80%;
+    height: 60px;
     margin-bottom: 30px;
 }
 
@@ -95,6 +97,7 @@ h1 {
     color: hsl(166, 100%, 37%);
     border-radius: 10px;
     width: 80%;
+    height: 60px;
     margin-bottom: 30px;
 }
 
@@ -103,6 +106,7 @@ h1 {
     color: hsl(234, 85%, 45%);
     border-radius: 10px;
     width: 80%;
+    height: 60px;
     margin-bottom: 30px;
 }
 
