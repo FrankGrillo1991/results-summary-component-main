@@ -24,6 +24,7 @@ body {
 
 .circle {
     border-radius: 50%;
+    margin: auto;
     width: 150px;
     height: 150px;
     background:  hsla(256, 72%, 46%, 1);
