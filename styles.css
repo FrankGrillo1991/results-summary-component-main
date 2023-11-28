@@ -21,7 +21,7 @@ body {
     background-color: hsla(256, 72%, 46%, 1);
 }
 
-.circleBase circle {
+.circleBase {
     border-radius: 50%;
 }
 
