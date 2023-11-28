@@ -11,6 +11,7 @@ body {
     text-align: center;
     min-height: 100vh;
     background-color: hsl(221, 100%, 96%);
+    font-family: 'Outfit', sans-serif;
 }
 
 .purple-box {
