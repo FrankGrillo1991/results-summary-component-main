@@ -21,6 +21,17 @@ body {
     background-color: hsla(256, 72%, 46%, 1);
 }
 
+.circleBase circle {
+    border-radius: 50%;
+}
+
+.circle {
+    width: 150px;
+    height: 150px;
+    background:  hsla(256, 72%, 46%, 1);
+    border: 1px solid white;
+}
+
 .white-box {
     width: 50%;
     height: 100vh;
