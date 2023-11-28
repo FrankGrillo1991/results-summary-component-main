@@ -167,7 +167,7 @@ h1 {
     
     .white-box {
         width: 100vw;
-        height: 50vh;
+        height: 100vh;
         background-color: hsl(0, 0%, 100%);
     }
 }
