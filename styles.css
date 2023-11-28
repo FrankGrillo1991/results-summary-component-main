@@ -72,7 +72,7 @@ h1 {
 .score {
     display: flex;
     justify-content: space-between;
-    align-content: center;
+    margin-top: 30px;
 }
 
 .reaction {
